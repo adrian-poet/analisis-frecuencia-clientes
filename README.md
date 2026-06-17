@@ -42,4 +42,9 @@ El pipeline de análisis se consolida a través de capas secuenciales independie
 ## 💻 Código Fuente
 El desarrollo completo de la vista analítica con el script optimizado se encuentra documentado y listo para su ejecución en la sección de archivos del repositorio:
 
-* 💾 **[Ver Script SQL Completo](./script_analisis_clientes.sql)** 
+* 💾 **[Ver Script SQL Completo](./script_analisis_clientes.sql)**
+
+---
+## 👤 Autor
+* **Adrián Poet** - *Data Analyst & Business Intelligence Specialist*
+* [LinkedIn](https://www.linkedin.com/in/adrian-poet)
